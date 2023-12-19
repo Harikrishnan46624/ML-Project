@@ -11,3 +11,15 @@
 7. update the pipeline
 8. update the main.py
 9. update the app.py
+
+
+### dagshub
+
+[dagshub](https://dagshub.com/)
+
+MLFLOW_TRACKING_URI=https://dagshub.com/Harikrishnan46624/ML-Project.mlflow \
+MLFLOW_TRACKING_USERNAME=Harikrishnan46624 \
+MLFLOW_TRACKING_PASSWORD=3ed5a7dd93896b903014bd0afb9cfeee2177eba5 \
+python script.py
+
+export MLFLOW_TRACKING_URI=https://dagshub.com/Harikrishnan46624/ML-Project.mlflow \
